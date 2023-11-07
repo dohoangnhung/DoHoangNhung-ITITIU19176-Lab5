@@ -1,6 +1,11 @@
 Unscramble App
 ===================================
 
+My Badge
+--------------
+![image](https://github.com/dohoangnhung/Mobile-Lab-5/assets/74888302/8c478249-79f6-4482-985a-87b3bed0c693)
+
+
 Starter code for Android Basics codelab - Store the data in a ViewModel
 
 Unscramble is  a single player game app that displays scrambled words. To play the game, player has
